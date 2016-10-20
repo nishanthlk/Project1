@@ -7,7 +7,7 @@ end
 file '/var/www/html/index.html' do
   content '<html>
   <body>
-    <h1>SRE Challenge</h1>
+    <h1>SRE</h1>
   </body>
 </html>'
 end
